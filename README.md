@@ -11,7 +11,11 @@ This project is a simple directory app built using React.js where users can add 
 ## Technologies Used
 
 - React.js
-- HTML/CSS
+- Tailwind CSS
+  ![image](https://github.com/akanksha-18/Directory/assets/76443240/99559ba0-7abc-487f-9ea0-30948e96ca3f)
+  ![image](https://github.com/akanksha-18/Directory/assets/76443240/2984bef6-8e81-492f-8295-d9ad54b4c305)
+
+
 
 ## Getting Started
 
